@@ -24,3 +24,5 @@ plot(axis_freq[2:(samples/2)],
 
 #URGENT FIX
 #DEVELOPMENT FINISHED
+
+#GUI DEV
