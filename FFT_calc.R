@@ -1,7 +1,7 @@
 #Copy data and run to create FFT
 #change sps as needed
 
-sps = 4;
+sps = 5;
 
 data_table = read.delim("clipboard",sep = "\t", header = FALSE,na.strings = "NA", skipNul= TRUE); #transposed table in clipboard
 data = melt(data_table,na.rm = TRUE);
