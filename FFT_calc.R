@@ -20,5 +20,7 @@ plot(axis_freq[2:(samples/2)],
      ylab="magnitude");
 #HOTFIX
 
+#HOTFIX FROM GUI
+
 #URGENT FIX
 #DEVELOPMENT FINISHED
